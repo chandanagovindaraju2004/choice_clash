@@ -12,7 +12,8 @@ Clean and readable code
 
 Easy to expand or customize
 
-🚀 Technologies Used
+🚀 Technologies Used:
+
 HTML, CSS, JavaScript.
 
 
